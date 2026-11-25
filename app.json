@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "name": "GuilhermeGotardo_CI_CD",
+    "slug": "guilhermegotardo-ci-cd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "safewaysptech",
+    "extra": {
+      "eas": {
+        "projectId": "56f5d111-3c7a-4263-85ce-ed8a7971bd88"
+      }
     }
   }
 }
